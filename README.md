@@ -3,7 +3,7 @@
 Mobile Software Engineer focused on building scalable, high-performance cross-platform applications using Flutter and Dart.
 
 ### Explore My Work & Portfolio
-Most of my professional projects are closed-source. You can check my interactive portfolio, live applications, and technical case studies here:
+You can explore my projects, live applications, and technical case studies on my portfolio:
 
 - Website: https://eledrissi.dev
 
