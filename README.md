@@ -14,9 +14,3 @@ You can explore my projects, live applications, and technical case studies on my
 - Local Data: Offline-first architecture, SQLite, ObjectBox
 - Backend Integration: REST APIs, Supabase, PostgreSQL
 
----
-
-### Connect
-- Portfolio: https://eledrissi.dev
-- LinkedIn: https://linkedin.com/in/aabouqas
-- Email: contact@eledrissi.dev
